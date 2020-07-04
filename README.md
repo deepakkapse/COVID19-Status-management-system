@@ -14,4 +14,10 @@ This project keep track of corona virus cases identified in every state of India
 <b>Language:</b><br>
 <b>C++</b>
 
-
+<b>Images<br>
+  HomePage
+  ![HomePage](https://github.com/deepakkapse/COVID19-Status-management-system/blob/master/fsprojectpics/Screenshot%20(144).png)
+<br>
+<br>
+  MainPage
+  ![MainPage](https://github.com/deepakkapse/COVID19-Status-management-system/blob/master/fsprojectpics/Screenshot%20(145).png)
