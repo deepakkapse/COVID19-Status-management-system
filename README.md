@@ -1,6 +1,6 @@
 # COVID19-Status-Management-System
 Filestructure project using C++ on Covid19 status of every state in India<br>
-This project keep track of corona virus cases identified in every state of India<br>
+This project keep track of corona virus cases identified in every state of India.<br>
 
 
 <br>
